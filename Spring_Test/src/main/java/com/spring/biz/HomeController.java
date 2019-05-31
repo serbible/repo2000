@@ -42,9 +42,9 @@ public class HomeController {
 		System.out.println("333333.owner");
 		
 		System.out.println("THE END");
-		System.out.println("THE END");
 		
 		
+		System.out.println(9999);
 		
 		return "home";
 	}
