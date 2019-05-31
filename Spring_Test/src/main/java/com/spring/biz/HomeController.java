@@ -34,7 +34,17 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		System.out.println("1. master branch");
-		System.out.println("2.Branch Test1");
+//		System.out.println("2.Branch Test1");
+//		
+//		System.out.println("3.owner");
+//		
+//		
+//		System.out.println("333333.owner");
+//		
+//		System.out.println("THE END");
+//		
+//		
+//		System.out.println(9999);
 		
 		return "home";
 	}
