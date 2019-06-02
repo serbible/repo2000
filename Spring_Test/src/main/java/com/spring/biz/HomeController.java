@@ -47,6 +47,7 @@ public class HomeController {
 //		System.out.println(9999);
 		
 		System.out.println("a");
+		System.out.println("c");
 		return "home";
 	}
 	
