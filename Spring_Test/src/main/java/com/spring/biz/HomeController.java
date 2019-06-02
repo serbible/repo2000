@@ -48,6 +48,8 @@ public class HomeController {
 		
 		System.out.println("a");
 		System.out.println("c");
+		
+		System.out.println("edd");
 		return "home";
 	}
 	
