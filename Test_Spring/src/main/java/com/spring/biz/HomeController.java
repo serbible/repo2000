@@ -35,7 +35,7 @@ public class HomeController {
 		
 		System.out.println("3번 추가");
 		System.out.println("7번 추가");
-		
+		System.out.println("5번 추가");
 		return "home";
 	}
 	
