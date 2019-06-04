@@ -45,8 +45,12 @@ public class HomeController {
 //		
 //		
 //		System.out.println(9999);
+<<<<<<< HEAD
 		
+=======
+>>>>>>> refs/remotes/origin/Branch_Test1
 		
+		System.out.println("a");
 		return "home";
 	}
 	
